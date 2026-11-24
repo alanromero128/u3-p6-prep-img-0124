@@ -1,0 +1,11 @@
+Categoría,Archivo original,Lectura,Ancho original,Alto original,Ancho preparado,Alto preparado,Valor mínimo norm.,Valor máximo norm.,Evaluación
+lluvia,lluvia1.png,OK,547,365,224,224,0.0,1.0,APROBADA
+lluvia,lluvia2.png,OK,800,600,224,224,0.024,1.0,APROBADA
+lluvia,lluvia3.png,OK,320,213,224,224,0.0,1.0,APROBADA
+lluvia,lluvia4.png,OK,620,620,224,224,0.004,1.0,APROBADA
+lluvia,lluvia5.png,OK,612,408,224,224,0.016,0.992,APROBADA
+nieve,nieve1.png,OK,500,888,224,224,0.024,0.839,APROBADA
+nieve,nieve2.png,OK,389,280,224,224,0.008,1.0,APROBADA
+nieve,nieve3.png,OK,1600,2399,224,224,0.004,0.98,APROBADA
+nieve,nieve4.png,OK,640,960,224,224,0.098,1.0,APROBADA
+nieve,nieve5.png,OK,3000,4500,224,224,0.024,0.996,APROBADA
